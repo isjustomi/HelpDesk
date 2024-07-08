@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26796462005",
+    "project_id": "helpdesk-113ac",
+    "storage_bucket": "helpdesk-113ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26796462005:android:8eda389d6e06e2c9a893fc",
+        "android_client_info": {
+          "package_name": "thomas.galdamez.crudactividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjpSnVQlJ0_sYCPGNOoXc8HfYWazUxyBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
